@@ -27,5 +27,5 @@ I work with Python, SQL, dbt, BigQuery, DuckDB, and FastAPI. I care about data q
 
 ### 📫 Contact
 
-- **Email:** [juan.data@proton.me](mailto:juan.data@proton.me) 
+- **Email:** juan.data@proton.me
 - **LinkedIn:** [linkedin.com/in/juanquiterio](https://linkedin.com/in/juanquiterio) *(reemplaza esto por tu URL real si la tienes)*
