@@ -28,4 +28,4 @@ I work with Python, SQL, dbt, BigQuery, DuckDB, and FastAPI. I care about data q
 ### 📫 Contact
 
 - **Email:** juan.data@proton.me
-- **LinkedIn:** [linkedin.com/in/juanquiterio](https://linkedin.com/in/juanquiterio) *(reemplaza esto por tu URL real si la tienes)*
+- **LinkedIn:** www.linkedin.com/in/john-anderson-95402644b
